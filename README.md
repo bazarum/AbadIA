@@ -1,3 +1,9 @@
+# AbadIA AlphaZero version
+
+Stay tunned ;-P 
+
+Forked from the awesome project: 
+
 # DeepReinforcementLearning
 A replica of the AlphaZero methodology in Python
 
