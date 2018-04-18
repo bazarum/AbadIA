@@ -14,7 +14,7 @@ class AbadiaGame:
         self.pieces = {'1': 'X', '0': '-', '-1': 'O'}
         self.grid_shape = (6, 7)
         self.input_shape = (2, 6, 7)
-        self.name = 'connect4'
+        self.name = 'AbadIA'
         self.state_size = len(self.gameState.binary)
         self.action_size = len(self.actionSpace)
 
